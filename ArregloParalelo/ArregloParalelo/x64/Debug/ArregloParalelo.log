@@ -1,0 +1,13 @@
+﻿  ArregloParalelo.cpp
+C:\Users\CDLS1\OneDrive\Documentos\Cloud Computing\proyectosOMP\ArregloParalelo\ArregloParalelo\ArregloParalelo.cpp(23,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\CDLS1\OneDrive\Documentos\Cloud Computing\proyectosOMP\ArregloParalelo\ArregloParalelo\ArregloParalelo.cpp(40,38): warning C4244: '=': conversion from 'int' to '_Ty', possible loss of data
+C:\Users\CDLS1\OneDrive\Documentos\Cloud Computing\proyectosOMP\ArregloParalelo\ArregloParalelo\ArregloParalelo.cpp(40,38): warning C4244:         with
+C:\Users\CDLS1\OneDrive\Documentos\Cloud Computing\proyectosOMP\ArregloParalelo\ArregloParalelo\ArregloParalelo.cpp(40,38): warning C4244:         [
+C:\Users\CDLS1\OneDrive\Documentos\Cloud Computing\proyectosOMP\ArregloParalelo\ArregloParalelo\ArregloParalelo.cpp(40,38): warning C4244:             _Ty=float
+C:\Users\CDLS1\OneDrive\Documentos\Cloud Computing\proyectosOMP\ArregloParalelo\ArregloParalelo\ArregloParalelo.cpp(40,38): warning C4244:         ]
+C:\Users\CDLS1\OneDrive\Documentos\Cloud Computing\proyectosOMP\ArregloParalelo\ArregloParalelo\ArregloParalelo.cpp(41,39): warning C4244: '=': conversion from 'int' to '_Ty', possible loss of data
+C:\Users\CDLS1\OneDrive\Documentos\Cloud Computing\proyectosOMP\ArregloParalelo\ArregloParalelo\ArregloParalelo.cpp(41,39): warning C4244:         with
+C:\Users\CDLS1\OneDrive\Documentos\Cloud Computing\proyectosOMP\ArregloParalelo\ArregloParalelo\ArregloParalelo.cpp(41,39): warning C4244:         [
+C:\Users\CDLS1\OneDrive\Documentos\Cloud Computing\proyectosOMP\ArregloParalelo\ArregloParalelo\ArregloParalelo.cpp(41,39): warning C4244:             _Ty=float
+C:\Users\CDLS1\OneDrive\Documentos\Cloud Computing\proyectosOMP\ArregloParalelo\ArregloParalelo\ArregloParalelo.cpp(41,39): warning C4244:         ]
+  ArregloParalelo.vcxproj -> C:\Users\CDLS1\OneDrive\Documentos\Cloud Computing\proyectosOMP\ArregloParalelo\x64\Debug\ArregloParalelo.exe
