@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="ArregloParalelo/ArregloParalelo.vcxproj" Id="7dcd7def-9719-4aa8-9db5-5b45c168dbd0" />
+</Solution>
